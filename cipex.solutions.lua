@@ -1,4 +1,4 @@
--- https://cipex.solutions
+-- free https://cipex.solutions
 pcall(function()
 local espcolor = Color3.fromRGB(140, 69, 102)
 local wallhack_esp_transparency = .4
@@ -41,7 +41,7 @@ Gui.Parent = plrs.LocalPlayer:WaitForChild("PlayerGui")
 
 -- counter blox https://cipex.solutions
 
-local gotstring = 0
+local gotstring = 0 -- cipex.solutions free script pastebin ragebot legitbot visuals misc esp https://cipex.solutions/
 local function getrandomstring()
 gotstring = gotstring+666
 local str = ""
@@ -55,7 +55,7 @@ end
 do
 math.randomseed(tick()+gotstring)
 for i = 3, math.random(1,100) do
-math.randomseed(i+tick()+gotstring)
+math.randomseed(i+tick()+gotstring) -- cipex.solutions free script pastebin ragebot legitbot visuals misc esp https://cipex.solutions/
 
 local oneortwo = math.random(1,2)
 if oneortwo == 2 then
@@ -66,7 +66,7 @@ math.randomseed(i+tick()+gotstring)
 str = str..""..string.upper(randomstring[math.random(1, counting123)])
 end
 
-end
+end -- cipex.solutions free script pastebin ragebot legitbot visuals misc esp https://cipex.solutions/
 end
 return str
 end
@@ -147,7 +147,7 @@ st1.TextWrapped = true
 st1_2.Name = getrandomstring()
 st1_2.Parent = Main
 st1_2.BackgroundColor3 = Color3.new(1, 1, 1)
-st1_2.BackgroundTransparency = 1
+st1_2.BackgroundTransparency = 1 -- cipex.solutions free script pastebin ragebot legitbot visuals misc esp https://cipex.solutions/
 st1_2.Position = UDim2.new(0, 0, 0.375590861, 0)
 st1_2.Size = UDim2.new(0.999999881, 0, 0.161862016, 0)
 st1_2.Font = Enum.Font.ArialBold
